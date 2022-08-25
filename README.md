@@ -1,3 +1,4 @@
 # personal-website-blog
 
-WIP
+- Markdown Blog
+- Spotify Widget
